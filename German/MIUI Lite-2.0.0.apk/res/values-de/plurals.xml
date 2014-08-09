@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d Items Checked</item>
+        <item quantity="one">%1$d Item Checked</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">You are now %1$d steps away from being a developer.</item>
+        <item quantity="one">You are now %1$d step away from being a developer.</item>
+    </plurals>
+    <plurals name="show_nondev_countdown">
+        <item quantity="other">You are now %1$d steps away from exiting developer mode.</item>
+        <item quantity="one">You are now %1$d step away from exiting developer mode.</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Delete selected %1$s conversations?</item>
+        <item quantity="one">Delete this conversation?</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s secs</item>
+        <item quantity="one">%s sec</item>
+        <item quantity="few">%s secs</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s results for \"%2$s\"</item>
+        <item quantity="one">%1$s result for \"%2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s people</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s messages</item>
+        <item quantity="one">%1$s message</item>
+    </plurals>
+    <plurals name="all_numbers_count">
+        <item quantity="other">%d entries</item>
+        <item quantity="one">1 entry</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d contacts with phone numbers</item>
+        <item quantity="one">1 contact with phone number</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d contacts</item>
+        <item quantity="one">1 contact</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d found</item>
+        <item quantity="one">1 found</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d found</item>
+        <item quantity="one">1 found</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">merged from %0$d sources</item>
+        <item quantity="one">not merged</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d groups</item>
+        <item quantity="one">1 group</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d people from %2$s</item>
+        <item quantity="one">%1$d person from %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d people</item>
+        <item quantity="one">%1$d person</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d numbers</item>
+        <item quantity="one">%1$d number</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Voicemails</item>
+        <item quantity="one">Voicemail</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">" %1$d  contacts added"</item>
+        <item quantity="one">%1$d contact added</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d people</item>
+        <item quantity="one">1 person</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">" %1$d items selected"</item>
+        <item quantity="zero">%1$d items selected</item>
+        <item quantity="one">%1$d item selected</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Just now</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Just now</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Immediately</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Immediately</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">One hour ago</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Half an hour ago</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">One hour ago</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Half an hour ago</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">In one hour</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">In half an hour</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">In one hour</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">In half an hour</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d mins ago</item>
+        <item quantity="one">1 min ago</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutes ago</item>
+        <item quantity="one">1 minute ago</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">in %d mins</item>
+        <item quantity="one">in 1 min</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">in %d minutes</item>
+        <item quantity="one">in 1 minute</item>
+    </plurals>
+</resources>
